@@ -1,8 +1,8 @@
 MAP Region,Year,Quarter, Properties , Units ,Average Occupancy,Median Occupancy,Annual Absorption,Annual Inventory Growth, Properties Under Construction , Units Under Construction ,Construction vs. Inventory, Average Rent ,Annual Rent Growth, Units Started , Rolling 4-Quarter Units Started ,Rolling 4-Quarter Starts vs. Inventory
 National Average (NIC31),2005,4Q2005,"  3,672 ","  459,477 ",91.3%,94.6%,,,  170 ,"  19,259 ",4.2%,"  2,800 ",,,,
-National Average (NIC31),2006,1Q2006,"  3,703 ","  464,518 ",91.0%,94.6%,,,  163 ,"  17,339 ",3.7%,"  2,836 ",,"  2,836 ", NA ,NA
-National Average (NIC31),2006,2Q2006,"  3,717 ","  466,392 ",91.4%,94.8%,,,  160 ,"  17,553 ",3.8%,"  2,865 ",,"  2,598 ", NA ,NA
-National Average (NIC31),2006,3Q2006,"  3,734 ","  468,860 ",91.3%,94.6%,,,  180 ,"  19,026 ",4.1%,"  2,878 ",,"  4,007 ", NA ,NA
+National Average (NIC31),2006,1Q2006,"  3,703 ","  464,518 ",91.0%,94.6%,,,  163 ,"  17,339 ",3.7%,"  2,836 ",,"  2,836 ",,
+National Average (NIC31),2006,2Q2006,"  3,717 ","  466,392 ",91.4%,94.8%,,,  160 ,"  17,553 ",3.8%,"  2,865 ",,"  2,598 ",,
+National Average (NIC31),2006,3Q2006,"  3,734 ","  468,860 ",91.3%,94.6%,,,  180 ,"  19,026 ",4.1%,"  2,878 ",,"  4,007 ",,
 National Average (NIC31),2006,4Q2006,"  3,745 ","  470,864 ",91.3%,94.8%,2.5%,2.5%,  192 ,"  21,057 ",4.5%,"  2,908 ",3.6%,"  4,331 ","  13,772 ",2.9%
 National Average (NIC31),2007,1Q2007,"  3,769 ","  474,182 ",91.3%,94.9%,2.5%,2.1%,  178 ,"  21,234 ",4.5%,"  2,952 ",3.5%,"  3,846 ","  14,782 ",3.1%
 National Average (NIC31),2007,2Q2007,"  3,779 ","  476,834 ",90.9%,94.3%,1.8%,2.2%,  180 ,"  21,310 ",4.5%,"  2,977 ",3.8%,"  3,221 ","  15,405 ",3.2%
